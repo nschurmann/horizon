@@ -6,4 +6,5 @@ password
 
 botón de enviar
 
-Agregamos la logica para iniciar sesion
+Agregamos la lógica para iniciar sesión
+Agregamos recuperar contraseña
