@@ -1,2 +1,2 @@
 # horizon
-Aregando integración continua
+Agregando integración continua
